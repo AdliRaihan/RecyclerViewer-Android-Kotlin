@@ -17,17 +17,10 @@
 </ul>
 <h5>Installation</h5>
 <p>
-  <i><u>implementation 'com.android.support:recyclerview-v7:<b>::yourversion::</b>'</u></i><br>
-   <i>implementation 'com.github.bumptech.glide:glide:4.8.0'</i><br>
-   <i>annotationProcessor 'com.github.bumptech.glide:compiler:4.8.0'</i><br>
+    
 </p>
-<h6>Manifest</h6>
-<p>
-  <code>
-    uses-permission android:name="android.permission.INTERNET"
-  </code>
-</p>
-<br><br><br><br><hr/>
+
+<br><br><br><hr/>
 
 <i><b>This release is final , which mean no future update</b><br>
 Any Question ? Contact me : adliraihan001@gmail.com</i>
