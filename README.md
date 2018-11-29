@@ -15,7 +15,7 @@
 <h6>Manifest</h6>
 <p>
   <code>
-    <uses-permission android:name="android.permission.INTERNET"/>
+    uses-permission android:name="android.permission.INTERNET"
   </code>
 </p>
 
