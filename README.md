@@ -9,7 +9,7 @@
     <li>using glide Image Loader</li>
    </ul>
 </p>
-<br><br><br>
+<br>
 <h3>Detail</h3>
 <ul>
   <li>min SDK Version <b>19</b></li>
@@ -29,4 +29,5 @@
 </p>
 <br><br>
 
+<i>this release is final , which mean no update in the future</i>
 <i>Any Question ? Contact me : adliraihan001@gmail.com</i>
