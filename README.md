@@ -29,5 +29,5 @@
 </p>
 <br><br>
 
-<i>this release is final , which mean no update in the future</i>
-<i>Any Question ? Contact me : adliraihan001@gmail.com</i>
+<i>this release is final , which mean no update in the future<br>
+Any Question ? Contact me : adliraihan001@gmail.com</i>
