@@ -15,9 +15,10 @@
   <li>min SDK Version <b>19</b></li>
   <li>Target SDK Version <b>28</b></li>
 </ul>
-<h5>Installation</h5>
+<hr/>
 <p>
-    
+    If you only see the codes / how i did it , see  
+    <a href="https://github.com/DNoir/RecyclerViewer-Android-Kotlin/tree/master/app/src/main/java/later/commingsoon/recyclerview">Here</a>
 </p>
 
 <br><br><br><hr/>
