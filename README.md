@@ -1,11 +1,20 @@
 # RecyclerViewer-Android-Kotlin
 
+<h3>Features</h3>
+<p>
+  <ul>
+    <li>2 Orientation on 1 layout * Horizontal&Vertical</li>
+    <li>3 Objects on Recycler</li>
+    <li>Kotlin Language</li>
+    <li>using glide Image Loader</li>
+   </ul>
+</p>
+<br><br><br>
 <h3>Detail</h3>
 <ul>
   <li>min SDK Version <b>19</b></li>
   <li>Target SDK Version <b>28</b></li>
 </ul>
-
 <h5>Installation</h5>
 <p>
    <i><u>implementation 'com.android.support:recyclerview-v7:28.0.0'</u></i><br>
@@ -18,5 +27,6 @@
     uses-permission android:name="android.permission.INTERNET"
   </code>
 </p>
-
 <br><br>
+
+<i>Any Question ? Contact me : adliraihan001@gmail.com</i>
