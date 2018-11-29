@@ -27,7 +27,7 @@
     uses-permission android:name="android.permission.INTERNET"
   </code>
 </p>
-<br><br>
+<br><br><br><br><hr/>
 
-<i>this release is final , which mean no update in the future<br>
+<i><b>This release is final , which mean no future update</b><br>
 Any Question ? Contact me : adliraihan001@gmail.com</i>
