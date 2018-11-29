@@ -8,9 +8,9 @@
 
 <h5>Installation</h5>
 <p>
-   <i><u>implementation 'com.android.support:recyclerview-v7:28.0.0'</u></i>
-   <i>implementation 'com.github.bumptech.glide:glide:4.8.0'</i>
-   <i>annotationProcessor 'com.github.bumptech.glide:compiler:4.8.0'</i>
+   <i><u>implementation 'com.android.support:recyclerview-v7:28.0.0'</u></i><br>
+   <i>implementation 'com.github.bumptech.glide:glide:4.8.0'</i><br>
+   <i>annotationProcessor 'com.github.bumptech.glide:compiler:4.8.0'</i><br>
 </p>
 <h6>Manifest</h6>
 <p>
