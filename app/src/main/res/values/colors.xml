@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#008577</color>
+    <!-- ganti warna notification -->
     <color name="colorPrimaryDark">#dfe6e9</color>
     <color name="colorAccent">#D81B60</color>
+    <!-- edit color type-->
+    <color name="colorEdittypePrime">
+        #7f8fa6
+    </color>
+    <color name="colorEdittypeSecond">
+        #f5f6fa
+    </color>
 </resources>

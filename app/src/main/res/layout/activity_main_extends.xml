@@ -13,13 +13,14 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <android.support.v7.widget.RecyclerView
-            android:id="@+id/recyclerm_view"
+            android:id="@+id/recyclerm_view2"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="200dp"
             android:orientation="vertical" />
     </LinearLayout>
 
     <android.support.design.widget.BottomNavigationView
+
         android:id="@+id/navigation"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

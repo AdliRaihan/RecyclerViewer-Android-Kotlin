@@ -2,28 +2,29 @@
     <string name="app_name">RecyclerView</string>
 
     <string-array name="Nama">
-        <item>Adli</item>
-        <item>Raihan</item>
-        <item>Sotong</item>
-        <item>Obama</item>
-        <item>Adli Raihan</item>
-        <item>Raihan Adli</item>
-        <item>Raihan Aldi</item>
-        <item>Dial Riahan</item>
+        <item>Lorem</item>
+        <item>Ipsum</item>
+        <item>data</item>
+        <item>tada</item>
+        <item>test_1</item>
+        <item>test_2</item>
+        <item>test_3</item>
+        <item>test_4</item>
     </string-array>
 
     <string name="loremipsum">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua.
         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
     </string>
 
     <string-array name="JobDesk">
-        <item>1,254 Recommendation</item>
-        <item>99,235 Recommendation</item>
-        <item>784 Recommendation</item>
-        <item>10 Recommendation</item>
+        <item>Rp 21.000.000,00</item>
+        <item>Rp 22.000.000,00</item>
+        <item>Rp 23.000.000,00</item>
+        <item>Rp 24.000.000,00</item>
     </string-array>
 
     <string-array name="ImageUri">
@@ -36,4 +37,8 @@
         <item>https://i.redd.it/j6myfqglup501.jpg</item>
         <item>https://c1.staticflickr.com/5/4636/25316407448_de5fbf183d_o.jpg</item>
     </string-array>
+    <string name="title_activity_main_extends">MainActivityExtends</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Settings</string>
+    <string name="title_notifications">Logout</string>
 </resources>
