@@ -16,7 +16,7 @@
   <li>Target SDK Version <b>28</b></li>
 </ul>
 <p>
-    If you only see the codes / how i did it , see  
+    If you only just want to see the codes or how i did it , see  
     <a href="https://github.com/DNoir/RecyclerViewer-Android-Kotlin/tree/master/app/src/main/java/later/commingsoon/recyclerview">Here</a> .
 </p>
 
